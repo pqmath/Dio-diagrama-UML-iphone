@@ -36,5 +36,5 @@
 
    Classe que representa um navegador web, realiza as funcionalidades premeditadas pela interface Navegador de Internet.
   
-![diagrama](https://github.com/pqmath/Desafio-Dio-Diagramacao-de-classes/assets/127605090/10f8e986-649e-4c0e-9b0f-97ccb6798f02)
-# Dio-diagrama-UML-iphone
+![diagrama](https://github.com/pqmath/Dio-diagrama-UML-iphone/assets/127605090/bf32b551-7f82-4651-b438-3af80752ad86)
+
